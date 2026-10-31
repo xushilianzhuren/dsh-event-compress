@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-event-compress
+      name: 'dsh-event-compress'
+      config:
+        enabled: true
+        tool: true
